@@ -1,2 +1,3 @@
-# hello-world
-My first GitHub repository
+# Hello World
+This is my first GitHub project created during my internship.
+Git is powerful!
