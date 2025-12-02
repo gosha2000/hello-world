@@ -11,9 +11,8 @@ GitHub repository: https://github.com/gosha2000/hello-world
   title = {GitHub Internship Project},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/YOUR_USERNAME/REPO_NAME}
+  url = {https://github.com/gosha2000/hello-world}
 }
-
 
 
 
