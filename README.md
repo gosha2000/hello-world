@@ -1,3 +1,4 @@
 # Hello World
 This is my first GitHub project created during my internship.
 Git is powerful!
+This is a new update for the GitHub Flow practice.
