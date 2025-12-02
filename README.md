@@ -18,5 +18,4 @@ GitHub repository: https://github.com/gosha2000/hello-world
 
 
 ## 📝 License
-
 This project is released under the MIT License.
