@@ -13,3 +13,10 @@ GitHub repository: https://github.com/gosha2000/hello-world
   publisher = {GitHub},
   url = {https://github.com/YOUR_USERNAME/REPO_NAME}
 }
+
+
+
+
+## 📝 License
+
+This project is released under the MIT License.
